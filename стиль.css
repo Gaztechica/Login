@@ -1,0 +1,106 @@
+body{
+	background-image:url(images/1.jpg);
+}
+
+
+a{
+	color: red;
+	font-size: 13px;
+}
+div{
+	color:#747474;
+}
+#dff{
+	color:green;
+}
+.human{
+	color:rgda(255,0,0,1);
+	font-size: 20px;
+}
+.animal{
+	color:rgda(255,0,0,0,1);
+	font-size: 23px;
+}
+.mess{
+	color:black;
+	font-size: 35px;
+	background:red;
+	border:5px solid#323232;
+}
+.varn{
+	color:black;
+	font-size: 35px;
+	background:red;
+	border:5px solid#323232;
+	margin:25px;
+	margin-top:15px;
+	margin-right:25px;
+	margin-bottom:5px;
+	padding:10px;
+	padding-bottom:10px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+	border-radius:30px;
+	opacity:0.9;
+	box-shadow: 10px 10px 10px black;
+	
+	}
+.varn:hover{
+	border:15px solid#323232;
+}
+.dd{
+	color:black;
+	font-size: 35px;
+	background:red;
+	border:5px solid#323232;
+}
+.ss{
+	color:black;
+	font-size: 35px;
+	background:red;
+	border:5px solid#323232;
+}
+.vv{	
+	color:black;
+	font-size: 35px;
+	background:red;
+	border:5px solid#323232;
+}
+.gg{
+	color:black;
+	font-size: 35px;
+	background:red;
+border:5px solid#323232;
+}
+.bb{
+	color:black;
+	font-size: 35px;
+	background:red;
+border:5px solid#323232;
+}
+#test{
+	color:black;
+	font-size: 35px;
+	background:red;
+	border:5px solid#323232;
+	border-radius:30px;
+	opacity:0.8;
+	box-shadow: 10px 10px 10px black;
+	margin:25px;
+	margin-top:15px;
+	margin-right:355px;
+	margin-bottom:5px;
+	padding:10px;
+	padding-bottom:10px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+	transform:scale(1);
+	transition:3s all;
+}
+#test:hover{
+	transform:rotate(35deg) scale(0.5);
+	background-color:green;
+
+}
