@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	background: #8ce7da;
+}
+.container{
+	height: 100vh;
+	display: flex;
+}
+.sidebar{
+	margin: 20px;
+	background-color: #94999b;
+}
+.content{
+	flex-grow: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.h1{
+	text-align: center;
+}
+input{
+	display: block;
+	width: 280px;
+	border: 1px solid #777777;
+	border-radius: 30px;
+	padding: 10px;
+	margin: 15px;
+}
+button{
+	display: block;
+	width: 300px;
+	align-items: center;
+	border: 1px solid #777777;
+	border-radius: 30px;
+	padding: 10px;
+	margin: 15px;
+	height: 47px;
+	background-color: #009990;
+}
